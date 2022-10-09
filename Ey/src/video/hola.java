@@ -12,4 +12,8 @@ public class hola {
 		System.out.println("1+1=2");
 
 	}
+	public static void metodo3() {
+		System.out.println("1+3=4");
+
+	}
 }
